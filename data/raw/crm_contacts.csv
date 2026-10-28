@@ -1,0 +1,316 @@
+CustomerID,Full Name,Email,Country,Segment,Signup Date
+C0067,Prakash Magar,prakash.magar67@example.com,IN,SMB,25/03/2025
+C0201,Sita Thapa,sita.thapa201@example.com,UAE,Enterprise,"Nov 26, 2023"
+C0143,Sagar Joshi,sagar.joshi143@example.com,India,Startup,06/09/2023
+C0128,Rina Rai,rina.rai128@example.com,United Arab Emirates,Enterprise,"Nov 19, 2024"
+C0176,Nisha Magar,nisha.magar176@example.com,Nepal,Startup,2024-02-20
+C0150,Sagar Basnet,sagar.basnet150@example.com,uae,SMB,"Feb 22, 2023"
+C0068,Ramesh Magar,ramesh.magar68@example.com,Nepal,Startup,"Nov 30, 2023"
+C0300,  Suresh Adhikari ,suresh.adhikari300@example.com,NP,Enterprise,2023-01-20
+C0263,Dipak Rai,dipak.rai263@example.com,india,Startup,27/09/2023
+C0062,Ramesh Karki,ramesh.karki62@example.com,IN,SMB,01/11/2024
+C0287,Kiran Sharma,kiran.sharma287@example.com,UAE,Enterprise,"May 25, 2023"
+C0202,  Bikash Basnet ,bikash.basnet202@example.com,United Arab Emirates,SMB,28/03/2025
+C0178,Sunita Gurung,sunita.gurung178@example.com,United Arab Emirates,SMB,"May 26, 2023"
+C0106,Rohan Karki,,india,SMB,"Dec 09, 2024"
+C0011,  Manish Karki ,manish.karki11@example.com,uae,SMB,18/04/2024
+C0048,Sagar Joshi,SAGAR.JOSHI48@EXAMPLE.COM,NP,Enterprise,14/03/2025
+C0148,Sita Adhikari,sita.adhikari148@example.com,uae,SMB,30/07/2023
+C0039,  Asha Magar ,asha.magar39@example.com,India,SMB,2023-09-07
+C0080,  Manish Magar ,manish.magar80@example.com,IN,Startup,2024-08-25
+C0047,  Rohan Gurung ,rohan.gurung47@example.com,United Arab Emirates,SMB,06/02/2024
+C0253,Rina Adhikari,rina.adhikari253@example.com,IN,Startup,19/06/2023
+C0219,Ramesh Sharma,ramesh.sharma219@example.com,NEPAL,SMB,07/02/2024
+C0017,Suresh Gurung,suresh.gurung17@example.com,UAE,SMB,"Apr 06, 2024"
+C0128,Rina Rai,rina.rai128@example.com,United Arab Emirates,Enterprise,"Nov 19, 2024"
+C0110,Bikash Magar,bikash.magar110@example.com,NP,Enterprise,2024-09-26
+C0256,Sagar Rai,sagar.rai256@example.com,india,Enterprise,"May 11, 2023"
+C0163,Nisha Gurung,nisha.gurung163@example.com,nepal,SMB,"Jan 04, 2024"
+C0122,Kiran Shrestha,kiran.shrestha122@example.com,uae,Startup,24/08/2024
+C0266,Maya Magar,maya.magar266@example.com,India,Enterprise,2024-06-06
+C0099,Nisha Thapa,nisha.thapa99@example.com,NP,Startup,27/07/2024
+C0060,Rohan Joshi,rohan.joshi60@example.com,India,SMB,"Sep 06, 2024"
+C0103,  Aarav Basnet ,aarav.basnet103@example.com,Nepal,Enterprise,"Dec 25, 2024"
+C0137,Rohan Gurung,rohan.gurung137@example.com,Nepal,Enterprise,"Jun 26, 2024"
+C0249,Asha Magar,asha.magar249@example.com,NEPAL,Startup,"Dec 09, 2024"
+C0238,Rohan Basnet,rohan.basnet238@example.com,IN,SMB,2024-01-24
+C0246,Laxmi Shrestha,laxmi.shrestha246@example.com,UAE,SMB,"Mar 17, 2023"
+C0031,Nisha Sharma,nisha.sharma31@example.com,Nepal,Startup,"Feb 10, 2024"
+C0196,Prakash Adhikari,prakash.adhikari196@example.com,IN,SMB,2023-03-20
+C0081,Laxmi Rai,laxmi.rai81@example.com,IN,SMB,"Apr 26, 2025"
+C0267,Dipak Basnet,DIPAK.BASNET267@EXAMPLE.COM,Nepal,Enterprise,2024-02-07
+C0074,  Nisha Sharma ,nisha.sharma74@example.com,IN,Startup,27/04/2023
+C0015,  Binod Adhikari ,binod.adhikari15@example.com,uae,Startup,07/10/2024
+C0135,Prakash Basnet,prakash.basnet135@example.com,NEPAL,Enterprise,2024-12-16
+C0026,Rina Gurung,rina.gurung26@example.com,IN,Startup,2024-08-02
+C0244,  Manish Thapa ,manish.thapa244@example.com,United Arab Emirates,Startup,2024-08-07
+C0085,Sita Sharma,sita.sharma85@example.com,United Arab Emirates,Enterprise,20/07/2024
+C0123,  Bikash Thapa ,BIKASH.THAPA123@EXAMPLE.COM,United Arab Emirates,Startup,"Aug 11, 2024"
+C0300,  Suresh Adhikari ,suresh.adhikari300@example.com,NP,Enterprise,2023-01-20
+C0032,  Ramesh Gurung ,ramesh.gurung32@example.com,NEPAL,Startup,"Jul 24, 2023"
+C0222,Maya Gurung,maya.gurung222@example.com,india,SMB,"Feb 15, 2024"
+C0165,Manish Magar,manish.magar165@example.com,uae,Startup,"Jan 12, 2024"
+C0288,Asha Gurung,asha.gurung288@example.com,NP,Enterprise,2024-05-29
+C0206,Prakash Basnet,prakash.basnet206@example.com,India,SMB,"Aug 28, 2023"
+C0078,Manish Shrestha,manish.shrestha78@example.com,IN,Startup,24/07/2023
+C0211,  Dipak Karki ,DIPAK.KARKI211@EXAMPLE.COM,United Arab Emirates,Startup,2023-08-24
+C0074,  Nisha Sharma ,nisha.sharma74@example.com,IN,Startup,27/04/2023
+C0124,Bikash Thapa,bikash.thapa124@example.com,india,SMB,28/02/2024
+C0006,Binod Adhikari,binod.adhikari6@example.com,UAE,Enterprise,"Feb 11, 2025"
+C0131,Manish Thapa,manish.thapa131@example.com,NP,Startup,2024-05-23
+C0243,Maya Sharma,maya.sharma243@example.com,United Arab Emirates,Startup,"Mar 27, 2023"
+C0235,Bikash Karki,bikash.karki235@example.com,uae,Startup,2024-03-19
+C0066,  Aarav Thapa ,AARAV.THAPA66@EXAMPLE.COM,United Arab Emirates,SMB,21/10/2023
+C0124,Bikash Thapa,bikash.thapa124@example.com,india,SMB,28/02/2024
+C0272,Nisha Karki,nisha.karki272@example.com,India,Enterprise,2023-01-21
+C0271,  Sunita Karki ,sunita.karki271@example.com,United Arab Emirates,Startup,23/09/2023
+C0083,Sunita Shrestha,sunita.shrestha83@example.com,nepal,Enterprise,"May 25, 2023"
+C0059,Asha Karki,asha.karki59@example.com,United Arab Emirates,Enterprise,31/10/2024
+C0043,Bikash Shrestha,,nepal,SMB,2024-09-22
+C0005,Suresh Rai,suresh.rai5@example.com,United Arab Emirates,Enterprise,25/01/2024
+C0230,Nisha Gurung,nisha.gurung230@example.com,india,Startup,"Jun 09, 2023"
+C0102,  Sita Shrestha ,sita.shrestha102@example.com,IN,Enterprise,"Jun 29, 2023"
+C0075,Bikash Karki,bikash.karki75@example.com,NP,SMB,"Sep 09, 2024"
+C0115,Sunita Adhikari,sunita.adhikari115@example.com,NP,Enterprise,2024-03-31
+C0181,Asha Joshi,asha.joshi181@example.com,IN,Enterprise,2025-04-24
+C0248,  Aarav Adhikari ,aarav.adhikari248@example.com,uae,Startup,"Jan 10, 2024"
+C0252,Sunita Gurung,,IN,Enterprise,20/03/2024
+C0071,Kiran Thapa,kiran.thapa71@example.com,United Arab Emirates,SMB,2024-12-17
+C0007,Maya Adhikari,maya.adhikari7@example.com,nepal,Enterprise,2023-03-19
+C0279,Manish Magar,manish.magar279@example.com,nepal,SMB,"Feb 28, 2023"
+C0214,  Asha Adhikari ,asha.adhikari214@example.com,nepal,Startup,09/02/2024
+C0129,Maya Magar,maya.magar129@example.com,NEPAL,Startup,"Jun 01, 2024"
+C0154,Ramesh Sharma,,Nepal,SMB,2023-09-22
+C0127,Pooja Joshi,,india,Enterprise,2023-03-13
+C0038,Binod Gurung,binod.gurung38@example.com,india,SMB,14/01/2025
+C0004,Dipak Rai,dipak.rai4@example.com,IN,Enterprise,2024-01-30
+C0197,Pooja Magar,pooja.magar197@example.com,india,SMB,05/11/2023
+C0084,  Prakash Adhikari ,,NEPAL,SMB,19/01/2025
+C0079,Aarav Joshi,aarav.joshi79@example.com,NEPAL,Startup,2024-05-23
+C0280,Dipak Sharma,,uae,Startup,2023-03-16
+C0205,Sunita Magar,sunita.magar205@example.com,uae,SMB,16/02/2024
+C0204,Laxmi Gurung,laxmi.gurung204@example.com,UAE,Enterprise,21/09/2024
+C0116,Maya Joshi,maya.joshi116@example.com,india,SMB,"May 26, 2024"
+C0065,Pooja Gurung,pooja.gurung65@example.com,india,Startup,2024-01-05
+C0221,  Anita Adhikari ,anita.adhikari221@example.com,india,SMB,2023-04-25
+C0051,Dipak Rai,dipak.rai51@example.com,IN,Startup,"Nov 14, 2024"
+C0024,Dipak Shrestha,dipak.shrestha24@example.com,Nepal,Startup,2025-04-14
+C0044,  Maya Adhikari ,maya.adhikari44@example.com,NEPAL,Enterprise,"Nov 16, 2023"
+C0190,Ramesh Joshi,ramesh.joshi190@example.com,india,Startup,2023-09-29
+C0025,Anita Sharma,anita.sharma25@example.com,India,Startup,"Dec 04, 2024"
+C0212,Asha Rai,asha.rai212@example.com,NP,Startup,"Oct 07, 2024"
+C0226,Sita Karki,sita.karki226@example.com,NP,Startup,"Oct 03, 2023"
+C0147,  Binod Joshi ,binod.joshi147@example.com,IN,Startup,"Feb 01, 2023"
+C0286,Manish Sharma,,nepal,Startup,"Apr 24, 2025"
+C0299,Pooja Gurung,POOJA.GURUNG299@EXAMPLE.COM,United Arab Emirates,SMB,14/09/2023
+C0198,Ramesh Karki,ramesh.karki198@example.com,nepal,Enterprise,17/04/2023
+C0188,Sagar Magar,sagar.magar188@example.com,NEPAL,Startup,2023-12-09
+C0223,  Manish Adhikari ,manish.adhikari223@example.com,India,Enterprise,2024-09-25
+C0160,Ramesh Rai,ramesh.rai160@example.com,UAE,SMB,06/12/2024
+C0041,Bikash Joshi,bikash.joshi41@example.com,nepal,SMB,29/05/2023
+C0182,Manish Rai,manish.rai182@example.com,UAE,Enterprise,2023-05-18
+C0046,Rohan Rai,rohan.rai46@example.com,UAE,Enterprise,"May 23, 2025"
+C0214,  Asha Adhikari ,asha.adhikari214@example.com,nepal,Startup,09/02/2024
+C0016,Rohan Joshi,rohan.joshi16@example.com,NEPAL,Enterprise,"Dec 08, 2024"
+C0144,Binod Shrestha,binod.shrestha144@example.com,IN,SMB,03/01/2024
+C0268,Sita Karki,sita.karki268@example.com,India,Startup,2023-11-09
+C0156,Dipak Thapa,dipak.thapa156@example.com,India,Enterprise,"Aug 18, 2024"
+C0152,Laxmi Karki,LAXMI.KARKI152@EXAMPLE.COM,NEPAL,SMB,2023-09-11
+C0245,Manish Magar,manish.magar245@example.com,UAE,Enterprise,2024-07-19
+C0255,Anita Adhikari,anita.adhikari255@example.com,IN,Startup,"Aug 17, 2024"
+C0281,  Laxmi Karki ,laxmi.karki281@example.com,India,SMB,2023-09-06
+C0109,Dipak Sharma,dipak.sharma109@example.com,india,Startup,"Feb 29, 2024"
+C0104,Anita Magar,anita.magar104@example.com,nepal,SMB,"Jan 07, 2023"
+C0274,Maya Adhikari,maya.adhikari274@example.com,Nepal,Startup,12/05/2025
+C0141,Pooja Karki,POOJA.KARKI141@EXAMPLE.COM,UAE,SMB,2025-06-03
+C0058,Bikash Magar,bikash.magar58@example.com,United Arab Emirates,Startup,"May 19, 2023"
+C0169,Rina Basnet,rina.basnet169@example.com,UAE,SMB,2023-10-28
+C0119,  Dipak Adhikari ,dipak.adhikari119@example.com,India,SMB,09/08/2023
+C0076,Dipak Basnet,DIPAK.BASNET76@EXAMPLE.COM,IN,Enterprise,04/03/2024
+C0199,Ramesh Rai,ramesh.rai199@example.com,uae,SMB,02/11/2023
+C0294,  Bikash Karki ,bikash.karki294@example.com,NP,Startup,26/10/2023
+C0059,Asha Karki,asha.karki59@example.com,United Arab Emirates,Enterprise,31/10/2024
+C0297,Aarav Adhikari,aarav.adhikari297@example.com,India,Startup,03/02/2025
+C0095,Pooja Adhikari,POOJA.ADHIKARI95@EXAMPLE.COM,United Arab Emirates,Startup,"Mar 19, 2025"
+C0285,Bikash Sharma,bikash.sharma285@example.com,NP,Startup,"Feb 02, 2024"
+C0164,Bikash Shrestha,bikash.shrestha164@example.com,Nepal,Enterprise,2024-01-01
+C0133,Suresh Shrestha,SURESH.SHRESTHA133@EXAMPLE.COM,india,SMB,23/03/2023
+C0090,Sagar Thapa,sagar.thapa90@example.com,NEPAL,Startup,"Jan 19, 2025"
+C0158,Nisha Thapa,nisha.thapa158@example.com,NEPAL,Startup,16/05/2024
+C0035,  Rina Basnet ,rina.basnet35@example.com,United Arab Emirates,Enterprise,2025-03-10
+C0073,Sagar Thapa,sagar.thapa73@example.com,uae,Startup,2024-02-21
+C0289,Suresh Karki,suresh.karki289@example.com,India,Startup,"May 03, 2024"
+C0225,  Binod Sharma ,binod.sharma225@example.com,NP,SMB,11/10/2024
+C0140,Sagar Sharma,sagar.sharma140@example.com,UAE,SMB,"Jan 29, 2024"
+C0239,Prakash Magar,prakash.magar239@example.com,IN,SMB,05/10/2023
+C0298,Laxmi Karki,LAXMI.KARKI298@EXAMPLE.COM,nepal,Enterprise,"Jan 31, 2024"
+C0112,Rohan Rai,rohan.rai112@example.com,uae,Startup,"Dec 03, 2024"
+C0013,  Sita Thapa ,sita.thapa13@example.com,NP,SMB,"Oct 24, 2024"
+C0088,Kiran Thapa,kiran.thapa88@example.com,NEPAL,Startup,2023-10-09
+C0228,  Nisha Joshi ,nisha.joshi228@example.com,India,Enterprise,2024-06-05
+C0097,Aarav Adhikari,aarav.adhikari97@example.com,United Arab Emirates,SMB,2023-08-04
+C0155,Rina Karki,rina.karki155@example.com,India,SMB,"Jan 26, 2024"
+C0042,Sita Rai,sita.rai42@example.com,NP,Startup,"Nov 13, 2024"
+C0064,Binod Joshi,binod.joshi64@example.com,United Arab Emirates,SMB,2025-05-20
+C0167,Sita Rai,SITA.RAI167@EXAMPLE.COM,United Arab Emirates,Enterprise,2023-10-17
+C0014,Sagar Magar,SAGAR.MAGAR14@EXAMPLE.COM,uae,Enterprise,16/11/2024
+C0269,Kiran Shrestha,kiran.shrestha269@example.com,United Arab Emirates,Enterprise,"Jul 05, 2024"
+C0018,Kiran Shrestha,KIRAN.SHRESTHA18@EXAMPLE.COM,NP,Enterprise,2023-04-26
+C0241,Sita Adhikari,sita.adhikari241@example.com,United Arab Emirates,Enterprise,2023-05-07
+C0258,Binod Joshi,binod.joshi258@example.com,NP,Enterprise,"Apr 04, 2023"
+C0091,Ramesh Gurung,ramesh.gurung91@example.com,NEPAL,SMB,27/01/2024
+C0052,Sunita Basnet,sunita.basnet52@example.com,UAE,SMB,25/06/2023
+C0086,Aarav Basnet,aarav.basnet86@example.com,IN,SMB,22/09/2024
+C0125,Asha Joshi,asha.joshi125@example.com,IN,Startup,2025-02-08
+C0162,Maya Karki,maya.karki162@example.com,United Arab Emirates,Enterprise,20/08/2024
+C0089,Pooja Magar,pooja.magar89@example.com,india,Enterprise,22/11/2024
+C0180,Manish Shrestha,manish.shrestha180@example.com,IN,SMB,"Mar 26, 2024"
+C0191,Aarav Karki,aarav.karki191@example.com,India,SMB,2024-09-07
+C0284,Sita Thapa,sita.thapa284@example.com,UAE,Enterprise,2024-03-17
+C0251,Sunita Basnet,SUNITA.BASNET251@EXAMPLE.COM,uae,Enterprise,11/06/2023
+C0087,  Anita Thapa ,ANITA.THAPA87@EXAMPLE.COM,India,Startup,29/03/2023
+C0187,Sagar Joshi,sagar.joshi187@example.com,India,SMB,2023-05-30
+C0117,  Sagar Shrestha ,sagar.shrestha117@example.com,IN,Startup,"Feb 03, 2023"
+C0146,  Ramesh Thapa ,ramesh.thapa146@example.com,Nepal,Startup,07/02/2025
+C0159,Binod Rai,,Nepal,SMB,30/03/2024
+C0260,Dipak Magar,dipak.magar260@example.com,UAE,SMB,2024-06-12
+C0218,Binod Adhikari,binod.adhikari218@example.com,United Arab Emirates,SMB,28/03/2023
+C0265,Maya Sharma,maya.sharma265@example.com,NP,Enterprise,09/06/2025
+C0200,Suresh Magar,suresh.magar200@example.com,nepal,Startup,"May 15, 2025"
+C0195,Prakash Sharma,prakash.sharma195@example.com,IN,Enterprise,13/05/2025
+C0171,Asha Joshi,asha.joshi171@example.com,United Arab Emirates,Startup,2023-04-06
+C0126,  Nisha Thapa ,nisha.thapa126@example.com,india,Startup,2024-05-23
+C0262,Ramesh Joshi,ramesh.joshi262@example.com,NEPAL,Enterprise,2023-06-03
+C0237,Sunita Magar,sunita.magar237@example.com,uae,Startup,19/08/2024
+C0072,Prakash Thapa,prakash.thapa72@example.com,United Arab Emirates,Startup,"Jun 20, 2023"
+C0261,Rohan Sharma,,United Arab Emirates,Startup,2024-12-15
+C0267,Dipak Basnet,DIPAK.BASNET267@EXAMPLE.COM,Nepal,Enterprise,2024-02-07
+C0215,  Binod Thapa ,binod.thapa215@example.com,uae,Startup,"Oct 25, 2024"
+C0247,  Sunita Sharma ,sunita.sharma247@example.com,IN,Enterprise,12/11/2024
+C0082,Rina Adhikari,rina.adhikari82@example.com,india,Startup,29/01/2024
+C0296,Suresh Sharma,suresh.sharma296@example.com,NP,SMB,13/04/2024
+C0096,  Nisha Basnet ,nisha.basnet96@example.com,india,Startup,2023-09-17
+C0134,Binod Rai,binod.rai134@example.com,NP,Enterprise,18/05/2024
+C0208,Binod Adhikari,binod.adhikari208@example.com,IN,Startup,2025-05-22
+C0229,Bikash Rai,bikash.rai229@example.com,IN,Startup,"May 07, 2024"
+C0186,  Bikash Magar ,bikash.magar186@example.com,India,Startup,"Feb 06, 2024"
+C0138,Aarav Rai,AARAV.RAI138@EXAMPLE.COM,NP,Startup,"Jan 28, 2023"
+C0101,  Binod Magar ,binod.magar101@example.com,india,SMB,2025-01-19
+C0232,Kiran Sharma,kiran.sharma232@example.com,uae,Startup,09/02/2025
+C0273,Kiran Gurung,kiran.gurung273@example.com,India,SMB,2023-05-17
+C0295,  Binod Rai ,binod.rai295@example.com,india,Startup,"May 05, 2024"
+C0276,Binod Shrestha,binod.shrestha276@example.com,India,Enterprise,2024-03-10
+C0290,Sita Thapa,sita.thapa290@example.com,india,Enterprise,02/03/2024
+C0009,Maya Gurung,maya.gurung9@example.com,India,Startup,01/07/2023
+C0108,Binod Karki,binod.karki108@example.com,IN,Enterprise,21/08/2024
+C0054,Sunita Thapa,SUNITA.THAPA54@EXAMPLE.COM,India,Startup,"Feb 25, 2024"
+C0028,Dipak Magar,dipak.magar28@example.com,India,SMB,2025-01-10
+C0231,Manish Basnet,manish.basnet231@example.com,IN,Startup,21/02/2024
+C0061,  Nisha Rai ,nisha.rai61@example.com,uae,Enterprise,2025-04-10
+C0093,  Anita Joshi ,anita.joshi93@example.com,Nepal,Enterprise,"Jan 27, 2025"
+C0033,Sagar Sharma,sagar.sharma33@example.com,United Arab Emirates,Enterprise,2023-03-24
+C0293,  Rohan Joshi ,rohan.joshi293@example.com,UAE,Startup,"May 08, 2025"
+C0186,  Bikash Magar ,bikash.magar186@example.com,India,Startup,"Feb 06, 2024"
+C0136,Binod Shrestha,binod.shrestha136@example.com,uae,Enterprise,2023-10-01
+C0023,Manish Shrestha,manish.shrestha23@example.com,UAE,SMB,2023-06-14
+C0210,  Binod Gurung ,binod.gurung210@example.com,United Arab Emirates,Startup,2024-12-01
+C0063,Laxmi Sharma,laxmi.sharma63@example.com,United Arab Emirates,SMB,26/11/2023
+C0107,Laxmi Basnet,laxmi.basnet107@example.com,United Arab Emirates,Startup,03/12/2024
+C0216,Sagar Rai,,UAE,Startup,2023-09-03
+C0264,  Binod Gurung ,binod.gurung264@example.com,UAE,Startup,12/04/2025
+C0192,Ramesh Rai,ramesh.rai192@example.com,nepal,Enterprise,"Jul 21, 2024"
+C0019,Binod Gurung,binod.gurung19@example.com,NP,Enterprise,"Jan 25, 2025"
+C0283,Suresh Gurung,suresh.gurung283@example.com,Nepal,Startup,"Aug 27, 2024"
+C0053,Laxmi Basnet,laxmi.basnet53@example.com,United Arab Emirates,Startup,24/11/2023
+C0174,Pooja Gurung,pooja.gurung174@example.com,United Arab Emirates,Enterprise,"Oct 12, 2024"
+C0036,Maya Rai,maya.rai36@example.com,india,Startup,2023-02-27
+C0194,Manish Gurung,MANISH.GURUNG194@EXAMPLE.COM,NEPAL,Enterprise,2023-11-22
+C0179,Maya Magar,maya.magar179@example.com,UAE,SMB,21/03/2025
+C0168,Ramesh Basnet,ramesh.basnet168@example.com,uae,Enterprise,"May 31, 2023"
+C0227,Rina Joshi,rina.joshi227@example.com,IN,SMB,"Dec 28, 2024"
+C0121,Rohan Sharma,rohan.sharma121@example.com,uae,SMB,"Jan 31, 2024"
+C0145,Anita Rai,anita.rai145@example.com,IN,Enterprise,12/06/2025
+C0020,Binod Shrestha,binod.shrestha20@example.com,uae,SMB,10/02/2024
+C0234,  Maya Sharma ,,United Arab Emirates,SMB,"Nov 13, 2024"
+C0045,Rina Rai,rina.rai45@example.com,IN,Enterprise,2023-03-03
+C0069,Sita Sharma,sita.sharma69@example.com,NP,Startup,2023-03-10
+C0077,Rina Basnet,,United Arab Emirates,Enterprise,"Oct 25, 2023"
+C0209,Maya Thapa,maya.thapa209@example.com,nepal,SMB,2023-08-26
+C0113,Pooja Rai,pooja.rai113@example.com,uae,Enterprise,"May 15, 2024"
+C0177,Binod Joshi,binod.joshi177@example.com,NP,Enterprise,"Oct 07, 2024"
+C0213,Sita Thapa,sita.thapa213@example.com,UAE,SMB,2024-12-11
+C0012,Laxmi Karki,laxmi.karki12@example.com,United Arab Emirates,Enterprise,28/05/2025
+C0056,Dipak Basnet,dipak.basnet56@example.com,Nepal,Enterprise,"Feb 09, 2023"
+C0217,Laxmi Adhikari,laxmi.adhikari217@example.com,United Arab Emirates,Startup,2023-03-13
+C0189,Bikash Adhikari,bikash.adhikari189@example.com,india,Startup,2023-08-03
+C0240,Anita Basnet,anita.basnet240@example.com,UAE,SMB,"Jul 18, 2024"
+C0277,Prakash Thapa,prakash.thapa277@example.com,United Arab Emirates,Enterprise,25/02/2024
+C0010,Nisha Sharma,NISHA.SHARMA10@EXAMPLE.COM,nepal,Enterprise,2023-03-26
+C0190,Ramesh Joshi,ramesh.joshi190@example.com,india,Startup,2023-09-29
+C0270,Kiran Gurung,KIRAN.GURUNG270@EXAMPLE.COM,uae,Startup,"Jun 15, 2024"
+C0030,Manish Gurung,manish.gurung30@example.com,Nepal,Startup,04/02/2024
+C0040,Bikash Adhikari,bikash.adhikari40@example.com,Nepal,Enterprise,"Jul 22, 2024"
+C0105,Manish Magar,manish.magar105@example.com,NEPAL,Enterprise,18/12/2024
+C0057,Dipak Shrestha,dipak.shrestha57@example.com,Nepal,SMB,"May 06, 2024"
+C0276,Binod Shrestha,binod.shrestha276@example.com,India,Enterprise,2024-03-10
+C0022,Ramesh Sharma,RAMESH.SHARMA22@EXAMPLE.COM,NEPAL,SMB,2023-11-30
+C0242,Prakash Joshi,prakash.joshi242@example.com,india,Enterprise,"Jun 09, 2024"
+C0092,Kiran Magar,kiran.magar92@example.com,NEPAL,SMB,"Dec 25, 2024"
+C0183,Rohan Magar,rohan.magar183@example.com,United Arab Emirates,SMB,2024-03-23
+C0291,Ramesh Magar,ramesh.magar291@example.com,India,Startup,"Dec 27, 2024"
+C0173,  Rohan Basnet ,rohan.basnet173@example.com,nepal,Startup,25/11/2024
+C0233,  Maya Sharma ,maya.sharma233@example.com,United Arab Emirates,Enterprise,18/01/2023
+C0037,  Aarav Joshi ,aarav.joshi37@example.com,India,Startup,"Feb 11, 2025"
+C0157,Pooja Basnet,pooja.basnet157@example.com,nepal,SMB,2023-04-24
+C0003,Prakash Joshi,prakash.joshi3@example.com,India,Startup,2024-08-12
+C0243,Maya Sharma,maya.sharma243@example.com,United Arab Emirates,Startup,"Mar 27, 2023"
+C0049,Asha Joshi,asha.joshi49@example.com,United Arab Emirates,Enterprise,"Sep 02, 2024"
+C0142,Sagar Gurung,sagar.gurung142@example.com,nepal,SMB,2023-07-13
+C0224,Laxmi Rai,laxmi.rai224@example.com,NP,SMB,2023-07-02
+C0184,Aarav Karki,aarav.karki184@example.com,nepal,Enterprise,18/09/2024
+C0161,Aarav Rai,aarav.rai161@example.com,NP,Enterprise,"Jun 15, 2025"
+C0220,Nisha Rai,nisha.rai220@example.com,India,SMB,2025-03-23
+C0100,Sita Magar,sita.magar100@example.com,Nepal,Startup,06/05/2023
+C0236,Sita Gurung,sita.gurung236@example.com,United Arab Emirates,SMB,2024-10-09
+C0118,Aarav Magar,aarav.magar118@example.com,india,SMB,"May 06, 2023"
+C0002,  Ramesh Basnet ,ramesh.basnet2@example.com,India,Startup,2024-11-27
+C0114,  Maya Adhikari ,maya.adhikari114@example.com,Nepal,SMB,"Feb 18, 2024"
+C0292,Sita Shrestha,SITA.SHRESTHA292@EXAMPLE.COM,Nepal,Startup,"Aug 29, 2023"
+C0175,Asha Thapa,asha.thapa175@example.com,UAE,Enterprise,"Sep 19, 2024"
+C0254,Maya Sharma,maya.sharma254@example.com,uae,SMB,2023-10-24
+C0282,Binod Rai,binod.rai282@example.com,India,Startup,13/03/2024
+C0185,Aarav Rai,aarav.rai185@example.com,nepal,SMB,"Mar 22, 2024"
+C0166,  Nisha Rai ,nisha.rai166@example.com,nepal,Startup,02/01/2025
+C0275,Prakash Sharma,prakash.sharma275@example.com,India,Startup,12/01/2024
+C0193,Sita Rai,sita.rai193@example.com,United Arab Emirates,Startup,30/06/2024
+C0001,Anita Sharma,anita.sharma1@example.com,uae,Startup,22/03/2023
+C0055,  Kiran Shrestha ,kiran.shrestha55@example.com,Nepal,SMB,2024-03-24
+C0029,Rohan Magar,rohan.magar29@example.com,india,Startup,05/05/2024
+C0207,Sunita Magar,sunita.magar207@example.com,Nepal,Startup,"Nov 18, 2024"
+C0050,Nisha Basnet,nisha.basnet50@example.com,IN,Startup,"Dec 01, 2024"
+C0021,Anita Shrestha,anita.shrestha21@example.com,NEPAL,Enterprise,2024-03-26
+C0177,Binod Joshi,binod.joshi177@example.com,NP,Enterprise,"Oct 07, 2024"
+C0034,  Nisha Shrestha ,nisha.shrestha34@example.com,India,Enterprise,14/05/2024
+C0172,Sagar Sharma,sagar.sharma172@example.com,United Arab Emirates,SMB,"Mar 23, 2023"
+C0008,Suresh Rai,suresh.rai8@example.com,NEPAL,Startup,"Sep 19, 2024"
+C0123,  Bikash Thapa ,BIKASH.THAPA123@EXAMPLE.COM,United Arab Emirates,Startup,"Aug 11, 2024"
+C0107,Laxmi Basnet,laxmi.basnet107@example.com,United Arab Emirates,Startup,03/12/2024
+C0098,Sunita Basnet,sunita.basnet98@example.com,IN,SMB,"Sep 06, 2024"
+C0111,  Asha Magar ,asha.magar111@example.com,Nepal,SMB,"Sep 07, 2023"
+C0070,Anita Basnet,anita.basnet70@example.com,Nepal,Enterprise,27/02/2024
+C0130,Ramesh Magar,RAMESH.MAGAR130@EXAMPLE.COM,UAE,SMB,25/07/2024
+C0259,Prakash Basnet,PRAKASH.BASNET259@EXAMPLE.COM,India,Startup,2023-06-07
+C0151,Aarav Gurung,aarav.gurung151@example.com,India,Enterprise,"Feb 09, 2025"
+C0027,Anita Sharma,anita.sharma27@example.com,UAE,Enterprise,"Dec 29, 2023"
+C0094,Kiran Basnet,kiran.basnet94@example.com,United Arab Emirates,Startup,"Dec 15, 2023"
+C0149,Maya Thapa,maya.thapa149@example.com,IN,Startup,"Jan 09, 2025"
+C0120,Laxmi Rai,laxmi.rai120@example.com,uae,SMB,14/04/2023
+C0139,Anita Thapa,anita.thapa139@example.com,india,Enterprise,09/11/2023
+C0170,Anita Rai,anita.rai170@example.com,United Arab Emirates,SMB,2023-01-21
+C0203,  Pooja Basnet ,pooja.basnet203@example.com,NP,Enterprise,"Mar 21, 2024"
+C0148,Sita Adhikari,sita.adhikari148@example.com,uae,SMB,30/07/2023
+C0278,Binod Rai,binod.rai278@example.com,IN,Startup,05/12/2024
+C0257,Maya Basnet,MAYA.BASNET257@EXAMPLE.COM,Nepal,Enterprise,"Sep 01, 2024"
+C0132,Bikash Karki,bikash.karki132@example.com,United Arab Emirates,Enterprise,2024-05-13
+C0250,  Rina Adhikari ,rina.adhikari250@example.com,uae,Enterprise,2023-02-07
+C0153,Dipak Magar,dipak.magar153@example.com,india,Startup,2025-04-05

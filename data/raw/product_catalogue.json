@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "sku": "P001",
+      "name": "Software Item 1",
+      "category": "Software",
+      "unit_price": 175.32
+    },
+    {
+      "sku": "P002",
+      "name": "Software Item 2",
+      "category": "Software",
+      "unit_price": 182.03
+    },
+    {
+      "sku": "P003",
+      "name": "Services Item 3",
+      "category": "Services",
+      "unit_price": 72.98
+    },
+    {
+      "sku": "P004",
+      "name": "Software Item 4",
+      "category": "Software",
+      "unit_price": 149.19
+    },
+    {
+      "sku": "P005",
+      "name": "Services Item 5",
+      "category": "Services",
+      "unit_price": 70.95
+    },
+    {
+      "sku": "P006",
+      "name": "Support Item 6",
+      "category": "Support",
+      "unit_price": 53.51
+    },
+    {
+      "sku": "P007",
+      "name": "Software Item 7",
+      "category": "Software",
+      "unit_price": 123.0
+    },
+    {
+      "sku": "P008",
+      "name": "Services Item 8",
+      "category": "Services",
+      "unit_price": 106.2
+    },
+    {
+      "sku": "P009",
+      "name": "Support Item 9",
+      "category": "Support",
+      "unit_price": 55.26
+    },
+    {
+      "sku": "P010",
+      "name": "Support Item 10",
+      "category": "Support",
+      "unit_price": 56.6
+    },
+    {
+      "sku": "P011",
+      "name": "Software Item 11",
+      "category": "Software",
+      "unit_price": 106.34
+    },
+    {
+      "sku": "P012",
+      "name": "Hardware Item 12",
+      "category": "Hardware",
+      "unit_price": 689.76
+    },
+    {
+      "sku": "P013",
+      "name": "Hardware Item 13",
+      "category": "Hardware",
+      "unit_price": 442.88
+    },
+    {
+      "sku": "P014",
+      "name": "Support Item 14",
+      "category": "Support",
+      "unit_price": 33.2
+    },
+    {
+      "sku": "P015",
+      "name": "Hardware Item 15",
+      "category": "Hardware",
+      "unit_price": 559.75
+    },
+    {
+      "sku": "P016",
+      "name": "Hardware Item 16",
+      "category": "Hardware",
+      "unit_price": 493.53
+    },
+    {
+      "sku": "P017",
+      "name": "Services Item 17",
+      "category": "Services",
+      "unit_price": 117.11
+    },
+    {
+      "sku": "P018",
+      "name": "Services Item 18",
+      "category": "Services",
+      "unit_price": 115.73
+    },
+    {
+      "sku": "P019",
+      "name": "Services Item 19",
+      "category": "Services",
+      "unit_price": 84.3
+    },
+    {
+      "sku": "P020",
+      "name": "Support Item 20",
+      "category": "Support",
+      "unit_price": 62.49
+    },
+    {
+      "sku": "P021",
+      "name": "Hardware Item 21",
+      "category": "Hardware",
+      "unit_price": 464.73
+    },
+    {
+      "sku": "P022",
+      "name": "Software Item 22",
+      "category": "Software",
+      "unit_price": 145.45
+    },
+    {
+      "sku": "P023",
+      "name": "Hardware Item 23",
+      "category": "Hardware",
+      "unit_price": 452.15
+    },
+    {
+      "sku": "P024",
+      "name": "Support Item 24",
+      "category": "Support",
+      "unit_price": 61.95
+    },
+    {
+      "sku": "P025",
+      "name": "Services Item 25",
+      "category": "Services",
+      "unit_price": 74.53
+    },
+    {
+      "sku": "P026",
+      "name": "Support Item 26",
+      "category": "Support",
+      "unit_price": 33.44
+    },
+    {
+      "sku": "P027",
+      "name": "Services Item 27",
+      "category": "Services",
+      "unit_price": 91.85
+    },
+    {
+      "sku": "P028",
+      "name": "Support Item 28",
+      "category": "Support",
+      "unit_price": 63.76
+    },
+    {
+      "sku": "P029",
+      "name": "Software Item 29",
+      "category": "Software",
+      "unit_price": 181.6
+    },
+    {
+      "sku": "P030",
+      "name": "Services Item 30",
+      "category": "Services",
+      "unit_price": 111.91
+    },
+    {
+      "sku": "P031",
+      "name": "Services Item 31",
+      "category": "Services",
+      "unit_price": 121.01
+    },
+    {
+      "sku": "P032",
+      "name": "Hardware Item 32",
+      "category": "Hardware",
+      "unit_price": 681.64
+    },
+    {
+      "sku": "P033",
+      "name": "Support Item 33",
+      "category": "Support",
+      "unit_price": 48.6
+    },
+    {
+      "sku": "P034",
+      "name": "Hardware Item 34",
+      "category": "Hardware",
+      "unit_price": 473.73
+    },
+    {
+      "sku": "P035",
+      "name": "Support Item 35",
+      "category": "Support",
+      "unit_price": 56.7
+    },
+    {
+      "sku": "P036",
+      "name": "Software Item 36",
+      "category": "Software",
+      "unit_price": 159.52
+    },
+    {
+      "sku": "P037",
+      "name": "Hardware Item 37",
+      "category": "Hardware",
+      "unit_price": 494.52
+    },
+    {
+      "sku": "P038",
+      "name": "Services Item 38",
+      "category": "Services",
+      "unit_price": 70.05
+    },
+    {
+      "sku": "P039",
+      "name": "Software Item 39",
+      "category": "Software",
+      "unit_price": 167.69
+    },
+    {
+      "sku": "P040",
+      "name": "Support Item 40",
+      "category": "Support",
+      "unit_price": 40.4
+    }
+  ]
+}
